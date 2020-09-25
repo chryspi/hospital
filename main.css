@@ -1,0 +1,23 @@
+body{
+	background-color:#6D85C7;
+   
+}
+
+.jumbotron{
+	background-color:#9896B5;
+	text-align:center;
+}
+
+.btn{
+	background-color:#6D85C7;
+	border:none;
+}
+
+.btn:hover{
+	background-color:#4A3B7D;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
